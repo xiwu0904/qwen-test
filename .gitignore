@@ -24,6 +24,9 @@ uploads/
 generated/
 videos/
 
+# Test assets
+客户测试资产/
+
 # OS
 .DS_Store
 Thumbs.db
